@@ -7,3 +7,10 @@
   - git clone https://github.com/darmawan01/blogs.git
   - cd blogs
   - pip install -r requirements.txt 
+
+# Run Project
+  - ./manage.py runserver
+  - open browser with url => localhost:8000/admin
+  - login with :
+    - username : admin
+    - password : admin12345
